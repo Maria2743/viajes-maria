@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    font-family: "PT Serif", serif;
+}
+
+.navbar {
+    background-color: transparent !important;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+}
+
+.navbar.alt-color {
+    background-color: transparent !important;
+
+}
+
+#navbar-nav {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+
+}
+
+.navbar-toggler {
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+.navbar-nav a {
+    color: aliceblue;
+}
+
+.navbar-brand {
+    color: aliceblue;
+}
+
+
+
+.card-body {
+    background-color: aqua;
+}
+
+.card-title {
+    font-size: 20px;
+}
