@@ -41,7 +41,11 @@ body {
     color: aliceblue;
 }
 
-
+.destacados h1 {
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: 700;
+}
 
 .card-body {
     background-color: aqua;
@@ -55,4 +59,9 @@ body {
 .card-text {
     font-size: 16px;
     text-align: center;
+}
+
+.form-label {
+    color: white;
+    font-size: 20px;
 }
