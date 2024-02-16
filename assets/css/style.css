@@ -65,3 +65,13 @@ body {
     color: white;
     font-size: 20px;
 }
+
+.footer h1 {
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
+
+.bg-info {
+    color: #17A2B8;
+}
