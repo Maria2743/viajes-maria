@@ -48,5 +48,11 @@ body {
 }
 
 .card-title {
-    font-size: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.card-text {
+    font-size: 16px;
+    text-align: center;
 }
