@@ -55,6 +55,7 @@ body {
 
 .cards {
     background-color: black;
+    height: 18rem;
 }
 
 .card-body p {
